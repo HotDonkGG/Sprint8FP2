@@ -1,0 +1,9 @@
+id,type,name,status,description,epic
+
+
+"id": 2,
+"name" : "Task2",
+"description" : "task1description",
+"status" : "NEW",
+"taskType" : "TASK"
+
